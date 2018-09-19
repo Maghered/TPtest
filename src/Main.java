@@ -9,7 +9,7 @@ public class Main {
 		
 		Pays unPays = new Pays("france", "francais", "euro", "Paris");
 		
-		Capitale uneCapitale = new Capitale("Paris", 0, 0);//pacman
+		Capitale uneCapitale = new Capitale("Paris", 0, 0);
 		
 		Continent unContinent = new Continent();
 		
