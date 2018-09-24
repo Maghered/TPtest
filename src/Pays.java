@@ -61,7 +61,7 @@ public class Pays {
 	 */
 	public String toStringP(){
 		int i;
-		String chaine = "----- LES PAYS -----\n"+ firstMaj() +" "+ langue +" "+ monnaie +" "+ capitale +
+		String chaine = "------ LES PAYS ------\n"+ firstMaj() +" "+ langue +" "+ monnaie +" "+ capitale +
 					"\n----- LA CAPITALE -----\n" + saCapitale;
 		if (this.mesVilles.size() == 0){
 			chaine += "\n Pas de Ville.";
