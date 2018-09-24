@@ -52,8 +52,5 @@ public class Ville {
 		String chaine;
 		chaine =  "----- LES VILLES -----\n" + nomV +" "+ nbHabitants +" "+ superficie + "\n";
 		return chaine;
-	}
-	
-	
-	
+	}	
 }
